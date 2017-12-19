@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/search"
+        android:title="@string/menu_search_activity"
+        />
+    <item android:id="@+id/offer"
+        android:title="@string/menu_offer_activity"
+        />
+    <item android:id="@+id/profile"
+        android:title="@string/menu_my_profile"
+        />
+    <item android:id="@+id/messages"
+        android:title="@string/menu_messages"
+        />
+    <item android:id="@+id/help_feedback"
+        android:title="@string/menu_help_feedback"
+        />
+    <item android:id="@+id/impressum"
+        android:title="@string/menu_impressum"
+        />
+</menu>

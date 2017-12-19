@@ -1,0 +1,49 @@
+<resources>
+    <!-- Main Titles -->
+    <string name="app_name">Fotomama</string>
+    <string name="title_activity_login">Search</string>
+    <string name="title_search_activity">Fotomama Suche</string>
+
+    <!-- Menu Titles -->
+    <string name="menu_search_activity">Suchen</string>
+    <string name="menu_offer_activity">Anbieten</string>
+    <string name="menu_my_profile">Mein Profil</string>
+    <string name="menu_messages">Nachrichten</string>
+    <string name="menu_help_feedback">Hilfe Feedback</string>
+    <string name="menu_impressum">Infos</string>
+
+
+    <!-- Search Formular Strings-->
+    <string name="search_formular_searching_for">Ich suche einen Fotographen für eine</string>
+    <string name="search_formular_area">In der Umgebung</string>
+    <string name="search_formular_place">Ort</string>
+    <string name="search_formular_distance">Entfernung in KM</string>
+    <string name="search_formular_time_frame">Im Zeitraum von</string>
+    <string name="search_formular_time_frame_from">Anfang des Zeitraumes</string>
+    <string name="search_formular_time_frame_until">Ende des Zeitraumes</string>
+    <string name="search_formular_find_fotograph">Finden</string>
+
+    <!-- My Profile strings -->
+    <string name="my_profile_company">Dein Firmenname</string>
+    <string name="my_profile_address">Straße und Hausnummer</string>
+    <string name="my_profile_postalCode">Plz</string>
+    <string name="my_profile_city">Ort</string>
+    <string name="my_profile_within_a_radius">Umkreis</string>
+    <string name="my_profile_email">E-Mail</string>
+    <string name="my_profile_website">Webseite</string>
+    <string name="my_profile_save">Übernehmen</string>
+
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+</resources>
